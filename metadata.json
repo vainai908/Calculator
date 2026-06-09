@@ -1,0 +1,8 @@
+{
+  "name": "Calculator",
+  "description": "An elegant, multi-mode calculator app featuring standard arithmetic, scientific computation, loan calculation, and an AI mathematical solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
